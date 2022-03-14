@@ -7,11 +7,12 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **C++ Programming And Data Structure and Algorithms.**
 
+
 - 📝 I regularly write articles on [https://codicgyanweb.blogspot.com/](https://codicgyanweb.blogspot.com/)
 - 💬 Ask me about **C++ | DSA**
 - 📫 How to reach me **jeetcodercpp@gmail.com**
 - ⚡ Fun fact **I am funny.**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amarjeet-kumar-638782208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarjeet-kumar-638782208/" height="30" width="40" /></a>

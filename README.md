@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
-<h3 align="center">A passionate Competitive Programmer and Software developer from Noida(India)</h3>
+<h3 align="center">A passionate DS/Algo Problem Solver using C++ language and Full Stack Web Developer from Noida(India)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetkumar123&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetkumar123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarjeetkumar123" alt="amarjeetkumar123" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **C++ Programming And Data Structure and Algorithms.**
+- 🌱 I’m currently focussing on **Full Stack Web Development.**
 
 
-- 📝 I regularly write articles on [https://codicgyanweb.blogspot.com/](https://codicgyanweb.blogspot.com/)
-- 💬 Ask me about **C++ | DSA**
+- 📝 I regularly solving Problems of **Data Structure and Algorithms** using **C++** language on **LeetCode, GfG** and more Platform. 
+- 💬 Ask me about **C++ | DSA** | **Full Stack Web Development
 - 📫 How to reach me **jeetcodercpp@gmail.com**
 - ⚡ Fun fact **I am funny.**
 
